@@ -1,6 +1,5 @@
 {
-  "name": "NoSQL-Challenge-Social-Network-API
-",
+  "name": "NoSQL-Challenge-Social-Network-API",
   "version": "1.0.0",
   "description": "Challenge 18: NoSQL",
   "main": "server.js",
