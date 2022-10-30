@@ -1,5 +1,6 @@
 {
-  "name": "social-network-api",
+  "name": "NoSQL-Challenge-Social-Network-API
+",
   "version": "1.0.0",
   "description": "Challenge 18: NoSQL",
   "main": "server.js",
@@ -9,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luvthatduck/Social-Network-API.git"
+    "url": "git+https://github.com/Jmucene/NoSQL-Challenge-Social-Network-API.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luvthatduck/Social-Network-API/issues"
+    "url": "https://github.com/Jmucene/NoSQL-Challenge-Social-Network-API"
   },
-  "homepage": "https://github.com/luvthatduck/Social-Network-API#readme",
+  "homepage": "https://github.com/Jmucene/NoSQL-Challenge-Social-Network-API#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.12.11"
