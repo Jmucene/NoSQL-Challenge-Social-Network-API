@@ -21,15 +21,4 @@ mongoose.set('debug', true);
 
 
 app.listen(PORT, () => console.log(`🌍 Connected on localhost:${PORT}`));
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
+
